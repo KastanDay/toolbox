@@ -2,7 +2,7 @@
 Useful ML engineering libraries and scripts
 
 For Nvidia Drivers and NGC containers see: https://github.com/KastanDay/ngc_utilities
-* [Speed comparison of TPU v4 Chip vs Nvidia a100 vs H100 and TPU v4 SuperPods vs DGX and HGX pods](https://kastanday.notion.site/Nvidia-DGX-HGX-vs-Google-TPU-v4-0da8a86e2a8c4a58a8daecb58f9c10e9)
+* [Speed comparison of TPU v4 Chip vs Nvidia a100 vs H100 and TPU v4 Pods vs DGX and HGX pods](https://kastanday.notion.site/Nvidia-DGX-HGX-vs-Google-TPU-v4-0da8a86e2a8c4a58a8daecb58f9c10e9)
 
 For my .dotfiles see: https://gitlab.com/kastan/dot-files
 
